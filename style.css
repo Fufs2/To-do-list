@@ -1,3 +1,22 @@
 li button{
   margin: 5px;
 }
+
+.container{
+ display: flex;
+ justify-content: center;
+ 
+}
+
+.list{
+  background-color: #BDD968;
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+body{
+  background-color:#B568D9;
+}
